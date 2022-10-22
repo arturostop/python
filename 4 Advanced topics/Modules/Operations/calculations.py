@@ -1,6 +1,6 @@
-from operaciones import * 
+from operations import * 
 
-a, b, c, d = (10, 5, 0, "Hola")
+a, b, c, d = (10, 5, 0, "Hello")
 
 print( "{} + {} = {}".format(a, b, suma(a, b) ) )
 print( "{} - {} = {}".format(b, d, resta(b, d) ) )
