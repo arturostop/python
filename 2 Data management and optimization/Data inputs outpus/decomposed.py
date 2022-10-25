@@ -14,7 +14,7 @@ if len(sys.argv) == 2:
 
     if num < 1 or num > 9999:
         print("Error. Add arguments correctly")
-        print("Example: >python decomposed.py [1 - 9999] [1 - 9999]")
+        print("Example: >python decomposed.py [1 - 9999]")
     else:
         cadena = str(num)       #convert from int to string. 
         longitud = len(cadena)  #Length of the converted string for the array
@@ -24,4 +24,4 @@ if len(sys.argv) == 2:
 
 else:
     print("Error. Add arguments correctly")
-    print("Example: >python decomposed.py [1 - 9999] [1 - 9999]")
+    print("Example: >python decomposed.py [1 - 9999]")
