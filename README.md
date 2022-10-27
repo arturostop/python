@@ -4,8 +4,8 @@
 ### Before you begin
 
 - Windows 7 or newest, GNU/Linux(Ubuntu, Debian...) or Mac OS X
-- 1 GHz or faster desktop processor
-- 512 MB of RAM (at minimum; more is better)
+- x86 64-bit CPU (Intel / AMD architecture)
+- 2 GB of RAM (at minimum; more is better)
 
 - Installing python 3
   - Download the lates version by followig the instructions for your OS at https://www.python.org/downloads/
