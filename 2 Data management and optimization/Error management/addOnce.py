@@ -24,11 +24,15 @@ while(True):
     option = input("Option: ")
 
     if option == '1':
-        element = int( input("Add element: ") )
-        add_once(list,element)
-        print(list)
+        try:
+            element = int( input("Add element: ") )
+            add_once(list,element)
+            print(list)
+        except ValueError:
+            print("Option 1 is to add an interger number")
+            continue
 
-    if option == '2':
+    elif option == '2':
         element = input("Add element: ")
         add_once(list,element)
         print(list)
@@ -39,3 +43,4 @@ while(True):
         break
     else:
         print("Try again, you selection should be an option of the given menu")
+        
