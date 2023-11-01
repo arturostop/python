@@ -39,7 +39,7 @@ python --version
 
    - You need something in which to write your python scripts. If you already have an editor you like, you can use it. If you don't I recommend you to use the free Visual Studio code editor. You can download the installer from https://code.visualstudio.com/
     - After it is downloaded, open VSC and from the top menu bar, select View
-    - From the list of options, select Extensions. A panel should appear on the left side. At the top is a search input box.
+    - From the option list, select Extensions. A panel should appear on the left side. At the top is a search input box.
     - Type Python and the first option should be an extension by Microsoft
     - Clic the Install button on that option and wait for a message that says it's successfully installed.
     
